@@ -1,0 +1,14 @@
+.offers{
+    justify-content: center;
+    padding:10px 5px;
+    width:340px !important;
+}
+
+.offers img{
+    margin: 1vmax;
+    transition: all 0.5s;
+}
+
+.offers img:hover{
+    box-shadow: 6px 6px 15px rgba(53, 53, 53, 0.363);
+  }

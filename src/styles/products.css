@@ -1,0 +1,17 @@
+.bar{
+    /* width: 100px; */
+    border: 0.2px solid rgba(0, 0, 0, 0.675);
+    height: 1px;
+    font-weight:lighter;
+    margin-top: 20px !important;
+}
+.roww{
+    padding: 50px;
+}
+.center_bar{
+    color: rgb(77, 77, 77);
+    font-size: 2.5vmax;
+    text-align: center;
+    font-family:   Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 200;
+}

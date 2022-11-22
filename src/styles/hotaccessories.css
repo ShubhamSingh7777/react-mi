@@ -1,0 +1,19 @@
+.list{
+    text-align: center;
+}
+.list ul li {
+    display: inline-block;
+    padding: 0px 10px;
+}
+.list ul li a{
+    list-style: none;
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.828);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.list ul li a:hover{
+    color: orangered;
+}
+.link_container{
+    padding: 30px 0px;
+}

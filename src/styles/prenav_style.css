@@ -1,0 +1,50 @@
+.prenav {
+    background-color: rgb(29, 28, 28);
+    color: white;
+}
+
+.prenav ul {
+
+    padding: 6px 0px;
+    margin: 0px;
+}
+
+.prenav ul li {
+    list-style: none;
+    display: inline;
+}
+
+.prenav_right {
+    text-align: left;
+}
+
+.prenav svg {
+    fill: rgb(180, 180, 180);
+}
+
+.prenav_left {
+    text-align: right;
+}
+
+.prenav ul li span {
+    color: rgba(180, 180, 180, 0.644);
+    font-size: 0.8vmax;
+    font-weight: 100;
+}
+
+.prenav ul li a {
+    color: rgb(180, 180, 180);
+    font-size: 0.9vmax;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 300;
+    margin: 1vmax;
+    text-decoration: none;
+}
+
+.prenav ul li a:hover {
+    color: white;
+}
+
+.preNav svg {
+    fill: rgb(180, 180, 180);
+}
