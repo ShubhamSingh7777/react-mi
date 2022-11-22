@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/miclone.github.io/static/css/main.9094913e.css",
+    "main.js": "/miclone.github.io/static/js/main.92d4eaef.js",
+    "static/js/787.8c4ffa48.chunk.js": "/miclone.github.io/static/js/787.8c4ffa48.chunk.js",
+    "index.html": "/miclone.github.io/index.html",
+    "main.9094913e.css.map": "/miclone.github.io/static/css/main.9094913e.css.map",
+    "main.92d4eaef.js.map": "/miclone.github.io/static/js/main.92d4eaef.js.map",
+    "787.8c4ffa48.chunk.js.map": "/miclone.github.io/static/js/787.8c4ffa48.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9094913e.css",
+    "static/js/main.92d4eaef.js"
+  ]
+}
